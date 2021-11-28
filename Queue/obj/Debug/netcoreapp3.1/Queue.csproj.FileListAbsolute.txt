@@ -1,0 +1,14 @@
+D:\Моя папка\университет\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+D:\Моя папка\университет\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+D:\Моя папка\университет\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+D:\Моя папка\университет\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+D:\Моя папка\университет\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+D:\Моя папка\университет\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+D:\Моя папка\университет\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.AssemblyReference.cache
+D:\Моя папка\университет\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Моя папка\университет\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+D:\Моя папка\университет\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+D:\Моя папка\университет\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+D:\Моя папка\университет\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+D:\Моя папка\университет\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+D:\Моя папка\университет\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache
