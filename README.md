@@ -1,1 +1,1 @@
-# Queue finding number
+Finding number in a Queue
